@@ -140,8 +140,9 @@ Publish the website in the LocalHost.
 
 
 ```
-
 ## OUTPUT:
+![alt text](<Faiyza/Faiyza/static/Screenshot 2025-10-16 134515.png>)T
+
 
 
 ## RESULT:
